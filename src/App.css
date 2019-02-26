@@ -1,0 +1,11 @@
+.App {
+  padding-left: 10%;
+  max-width: 60%;
+}
+.search{
+  padding-block-end: 1%;
+  padding-block-start: 1%;
+}
+.search input{
+  width: 60%;
+}
